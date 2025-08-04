@@ -56,7 +56,7 @@ Learn to handle missing values, encode categorical features, scale numerical dat
 
 ## Sample Output
 
-- Cleaned dataset preview using `df.head()`
+- Cleaned dataset 
 - Correlation heatmap to visualize relationships
 - Final shape of the dataset
 
